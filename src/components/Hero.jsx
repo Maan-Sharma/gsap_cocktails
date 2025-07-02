@@ -72,11 +72,11 @@ return(
  <section id="hero" className="noisy">
     <h1 className="title">
         MOJITO</h1>
-<img src="public/images/hero-left-leaf.png" 
+<img src="/images/hero-left-leaf.png" 
 alt="left-leaf" 
 className="left-leaf" /> 
 
-<img src="public/images/hero-right-leaf.png"
+<img src="/images/hero-right-leaf.png"
  alt="right-leaf" 
  className="right-leaf" />
 
@@ -110,7 +110,7 @@ Every cocktail on our menu is a blend of premium ingredients,
 		 muted
 		 playsInline
 		 preload="auto"
-		 src="public/videos/output.mp4"
+		 src="/videos/output.mp4"
 		/>
 	 </div>
 
